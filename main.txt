@@ -3,3 +3,6 @@ Git jest spoko, ale trzeba znać podstawy.
 
 # To jest kolejna linijka
 Tadzio jest niesamowicie słodki, ale po chuj liże łapy no to ja nie wiem.
+
+# To jest ostatnia linijka
+Wprowadzanie zmian w samym GitHub potwornie ssie pałę i nie powinno być uskuteczniane pod żadnym pozorem.
