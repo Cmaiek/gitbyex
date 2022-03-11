@@ -1,2 +1,5 @@
 # To jest pierwsza linijka
 Git jest spoko, ale trzeba znać podstawy.
+
+# To jest kolejna linijka
+Tadzio jest niesamowicie słodki, ale po chuj liże łapy no to ja nie wiem.
