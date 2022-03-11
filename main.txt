@@ -1,2 +1,2 @@
 # To jest pierwsza linijka
-Git jest spoko.
+Git jest spoko, ale trzeba znać podstawy.
