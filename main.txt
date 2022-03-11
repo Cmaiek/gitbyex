@@ -1,0 +1,2 @@
+# To jest pierwsza linijka
+Git jest spoko.
